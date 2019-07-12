@@ -1,5 +1,5 @@
-ENV["RAILS_ENV"] = "test"
-ENV["SINATRA_ENV"] = "test"
+# ENV["RAILS_ENV"] = "test"
+# ENV["SINATRA_ENV"] = "test"
 
 require_relative '../config/environment'
 require 'rake'
