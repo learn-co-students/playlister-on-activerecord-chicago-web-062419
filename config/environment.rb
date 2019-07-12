@@ -3,6 +3,7 @@ ENV["SINATRA_ENV"] ||= "development"
 
 require "bundler/setup"
 require "sinatra/activerecord"
+require "pry"
 
 Bundler.require
 
